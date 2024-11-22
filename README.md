@@ -1,3 +1,2 @@
-# hello-git-course
-"# hello-git-course" 
-# hello-git-course
+
+# This is a README
